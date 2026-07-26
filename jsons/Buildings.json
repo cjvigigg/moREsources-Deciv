@@ -3,7 +3,6 @@
         "name": "More Resources",
         "isNationalWonder": "true",
         "cost": 0,
-        "uniques":["[+100]% [Encrypted Data] resource production","[+100]% [Weapons] resource production","[+100]% [Coal] resource production","[+100]% [Oil] resource production","[+100]% [Aluminum] resource production","[+100]% [Uranium] resource production","[+100]% [Power] resource production",
-"[+100 Gold]","Only available in cities with [Bomb Shelter]","Will not be displayed in Civilopedia"],  
+        "uniques":["[+100]% [Encrypted Data] resource production","[+100]% [Weapons] resource production","[+100]% [Coal] resource production","[+100]% [Oil] resource production","[+100]% [Aluminum] resource production","[+100]% [Uranium] resource production","[+100]% [Power] resource production","[+100 Gold]","Only available in cities with [Bomb Shelter]","Will not be displayed in Civilopedia"],  
     },
 ]
